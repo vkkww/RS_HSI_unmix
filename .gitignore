@@ -1,0 +1,34 @@
+# MATLAB 自动保存和备份文件
+*.asv
+*.m~
+*.autosave
+*.slx.r*
+*.mdl.r*
+
+# 编译的 MEX 文件
+*.mex*
+
+# 打包的应用和工具箱
+*.mlappinstall
+*.mltbx
+
+# Simulink 缓存和生成文件夹
+slprj/
+sccprj/
+codegen/
+*.slxc
+
+# 数据文件
+*.mat
+Unmixing_dataset/
+output/
+
+# 文档图片
+*.docx
+*.pdf
+*.png
+*.jpeg
+*.jpg
+
+# MATLAB Drive 标记
+*.MATLABDriveTag
